@@ -7,3 +7,6 @@
 - **Design Goal:** Reliable early triage of skin cancer cases in telehealth and low‑resource settings  
 
 By integrating visual and non‑visual data streams, LFMM‑SCC demonstrates the power of late fusion in medical AI, enabling scalable and effective screening solutions for dermatology.
+
+## Workflow
+![Block Diagram](https://github.com/YasirAhmadX/LFMM-SCC/blob/3a3605254757a8ae727f8ea4f0df24c5d1561951/assets/Block%20Diagram.jpeg)
